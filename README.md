@@ -1,4 +1,5 @@
-![Wh1ppedKreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh1ppedKreem&show_icons=true&hide_border=true&theme=transparent)
+[![Wh1ppedKreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wh1ppedKreem&show_icons=true&hide_border=true&theme=transparent)]
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1ppedKreem&layout=compact)]
 # About Me
 - Self taught dev and (mediocre) hacker
 - Aspiring to become a cybersecurity engineer or full-stack developer
