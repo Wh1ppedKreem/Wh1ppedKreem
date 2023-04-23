@@ -13,9 +13,9 @@
 
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Wh1ppedKreem&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Github stats card failed to load.">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1ppedKreem&show_icons=true&hide_border=true&layout=compact&count_private=true&theme=transparent" alt="Github top-langs card failed to load.">
-<img width="50%" align="right" src="https://streak-stats.demolab.com/?user=Wh1ppedKreem&hide_border=true&theme=transparent" alt="Github streaks card failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Wh1ppedKreem&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Github stats card failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1ppedKreem&show_icons=true&hide_border=true&layout=compact&count_private=true&theme=tokyonight" alt="Github top-langs card failed to load.">
+<img width="50%" align="right" src="https://streak-stats.demolab.com/?user=Wh1ppedKreem&hide_border=true&theme=tokyonight" alt="Github streaks card failed to load.">
 
 # Introduction
 - Self taught dev and (mediocre) hacker
