@@ -12,12 +12,11 @@
 [![CSS3](https://shields.io/badge/CSS-2449D8?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css)
 [![JavaScript](https://shields.io/badge/JavaScript-F0DC4E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-# Tools
-## OSs
+# OSs
 [![Windows](https://shields.io/badge/Windows-0077DB?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-gb/windows?r=1)
 [![Ubuntu](https://shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Kali Linux](https://shields.io/badge/Kali%20Linux-367BF0?logo=kalilinux&logoColor=white&style=for-the-badge)](https://kali.org/)
 [![Arch Linux](https://shields.io/badge/Arch%20Linux-333333?logo=archlinux&logoColor=0F94D2&style=for-the-badge)](https://archlinux.org/)
 
-## IDEs
+# IDEs
 [![VS Code](https://shields.io/badge/VS%20Code-2C2C32?logo=visualstudiocode&logoColor=23A9F2&style=for-the-badge)](https://code.visualstudio.com/)
