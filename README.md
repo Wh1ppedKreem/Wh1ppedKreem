@@ -10,7 +10,4 @@
 [![Python](https://shields.io/badge/Python-FFD343?logo=python&logoColor=blue&style=for-the-badge)](https://python.org/)
 [![HTML5](https://shields.io/badge/HTML-D84924?logo=html5&logoColor=white&style=for-the-badge)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://shields.io/badge/CSS-2449D8?logo=css3&logoColor=white&style=for-the-badge)](https://www.w3.org/TR/CSS/#css)
-
-<!--
-**Wh1ppedKreem/Wh1ppedKreem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![JavaScript](https://shields.io/badge/JavaScript-F0DC4E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
