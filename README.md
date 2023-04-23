@@ -13,7 +13,7 @@
 [![JavaScript](https://shields.io/badge/JavaScript-F0DC4E?logo=javascript&logoColor=black&style=for-the-badge)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 # Tools
-## OSs'
+## OSs
 [![Windows](https://shields.io/badge/Windows-0077DB?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-gb/windows?r=1)
 [![Ubuntu](https://shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Kali Linux](https://shields.io/badge/Kali%20Linux-367BF0?logo=kalilinux&logoColor=white&style=for-the-badge)](https://kali.org/)
