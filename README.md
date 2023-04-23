@@ -14,3 +14,4 @@
 
 # Operating Systems
 [![Windows](https://shields.io/badge/Windows-0077DB?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-gb/windows?r=1)
+[![Kali Linux](https://shields.io/badge/Kali%20Linux-367BF0?logo=kalilinux&logoColor=white&style=for-the-badge)](https://kali.org/)
