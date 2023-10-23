@@ -33,6 +33,7 @@
 [![Ubuntu](https://shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Kali Linux](https://shields.io/badge/Kali%20Linux-367BF0?logo=kalilinux&logoColor=white&style=for-the-badge)](https://kali.org/)
 [![Arch Linux](https://shields.io/badge/Arch%20Linux-333333?logo=archlinux&logoColor=0F94D2&style=for-the-badge)](https://archlinux.org/)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # IDEs
 [![VS Code](https://shields.io/badge/VS%20Code-2C2C32?logo=visualstudiocode&logoColor=23A9F2&style=for-the-badge)](https://code.visualstudio.com/)
