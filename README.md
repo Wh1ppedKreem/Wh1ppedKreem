@@ -20,7 +20,7 @@
 # Introduction
 - Self taught developer and (mediocre) hacker
 - Aspiring to become a cybersecurity engineer or full-stack developer
-- Discord: WhippedKreem #7696
+- Discord: WhippedKreem
 
 # Languages
 [![Python](https://shields.io/badge/Python-FFD343?logo=python&logoColor=blue&style=for-the-badge)](https://python.org/)
