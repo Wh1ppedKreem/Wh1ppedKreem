@@ -18,7 +18,7 @@
 <img width="50%" align="right" src="https://streak-stats.demolab.com/?user=Wh1ppedKreem&hide_border=true&theme=tokyonight" alt="Github streaks card failed to load.">
 
 # Introduction
-- Self taught developer and (mediocre) hacker
+- Self taught developer and cybersecurity enthusiast
 - Aspiring to become a cybersecurity engineer or full-stack developer
 - Discord: WhippedKreem
 
